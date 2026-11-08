@@ -4,7 +4,7 @@ Sitio web de varias páginas sobre **Brawl Stars**, hecho como proyecto escolar 
 
 > **Aviso:** es un proyecto educativo y de fans, hecho con tono de parodia. No tiene relación con Supercell. Brawl Stars, sus personajes e imágenes pertenecen a Supercell.
 
-🔗 **Ver en línea:** [pagina]()
+🔗 **Ver en línea:** [pagina](https://rogelioprado-dev.github.io/Brawl-stars-fan-page/)
 
 ---
 
